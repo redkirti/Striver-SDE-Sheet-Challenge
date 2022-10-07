@@ -1,6 +1,7 @@
 #! /bin/bash
 
 ### Git automation script for automating git clone, push and pull ###
+
 ### Created by PIYUSH-MISHRA-00 ###
 
 while :
